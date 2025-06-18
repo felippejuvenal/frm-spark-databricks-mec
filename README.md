@@ -19,3 +19,5 @@ password = @1re620250n1
 Postgres IP = 159.203.159.29
 
 nova linha de texto
+
+Editando pelo portal
